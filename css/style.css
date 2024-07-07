@@ -1,4 +1,4 @@
-:root{
+ :root{
     scroll-behavior: smooth;
 }
 /* Sec1 animation */
@@ -38,5 +38,5 @@ h2::after
 }
 #form{
     height: 100vh;
-}
+} 
 
